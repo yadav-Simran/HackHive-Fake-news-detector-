@@ -20,6 +20,7 @@ numpy 1.21.1
 
 spaCy v3.1.4
 
+
 ## Features
 
 #### Fake News Classification: 
@@ -75,6 +76,10 @@ Matplotlib
 spaCy
 
 NLTK
+
+html
+
+CSS
 
 ## Contact
 For any questions, suggestions, or feedback, please contact yadavsimran281198@gmail.com
