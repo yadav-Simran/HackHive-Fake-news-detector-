@@ -9,10 +9,15 @@ The Fake News Detector project is designed to help individuals and organizations
 
 ## Requirements
 Python 3.6+
+
 Flask 2.0.1
+
 scikit-learn 0.24.2
+
 pandas 1.3.1
+
 numpy 1.21.1
+
 spaCy v3.1.4
 
 ## Features
@@ -60,10 +65,15 @@ The project provides a user-friendly web interface where users can submit news a
 
 ## 🛠 Skills
 Python
+
 Pandas
+
 Numpy
+
 Matplotlib
+
 spaCy
+
 NLTK
 
 ## Contact
